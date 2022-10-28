@@ -2,7 +2,7 @@ import React from 'react'
 
 function PricingCard({premium = false}) {
   return (
-    <div className='p-10 w-full'>
+    <div className='p-10 w-full border border-solid rounded-md'>
       <div>
         <h3 className='font-Montserrat font-bold text-2xl leading-[36px]'>Free</h3>
         <h1 className='font-Montserrat font-bold text-[56px] leading-[76px]'>{premium ? '$24':'$0'}</h1>

@@ -24,7 +24,7 @@ function Pricing() {
       </div>
       <div className='flex justify-center items-center mb-6'>
 
-      <p className='font-OpenSans font-normal text-base leading-[32px] w-9/12 text-center'>This order process is provided by Paddle.com, who handle all payment services, invoicing and download links. Need more information? You can always reach us at support@name.com</p>
+      <p className='font-OpenSans font-normal text-base leading-[32px] w-9/12 text-center mt-6'>This order process is provided by Paddle.com, who handle all payment services, invoicing and download links. Need more information? You can always reach us at support@name.com</p>
       </div>
     </div>
   )
